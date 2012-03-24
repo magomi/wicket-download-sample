@@ -1,0 +1,4 @@
+- checkout this repo (see above)
+- type "mvn jetty:run" to start the sample application
+- open http://localhost:8080/wicket-download-sample/ in your browser
+
