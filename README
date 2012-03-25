@@ -2,3 +2,9 @@
 - type "mvn jetty:run" to start the sample application
 - open http://localhost:8080/wicket-download-sample/ in your browser
 
+How to implement that the Ajax update will performed and the download
+of a resource will be initiated is well discribed in the wicket wiki:
+https://cwiki.apache.org/WICKET/ajax-update-and-file-download-in-one-blow.html
+
+
+
